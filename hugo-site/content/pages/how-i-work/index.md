@@ -2,9 +2,9 @@
 category:
   - pages
 date: "2024-11-04T00:40:14+00:00"
-guid: http://www.davidcraddocktutor.com/how-I-work
+guid: http://www.davidcraddocktutor.com/how-i-work
 title: How I Work
-url: /how-I-work
+url: /how-i-work
 ---
 
 ![Image](desk.jpg)

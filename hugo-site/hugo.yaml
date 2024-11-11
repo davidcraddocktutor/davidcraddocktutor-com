@@ -34,7 +34,7 @@ languages:
           url: /my-experience
           weight: 11
         - name: How I Work
-          url: /how-I-work/
+          url: /how-i-work
           weight: 12
         - name: Get in Contact
           url: /get-in-contact
@@ -82,7 +82,7 @@ params:
     Content: >
       Hi, I'm David. This is my professional tutoring/freelance site where I describe what I can help you with.
 
-      Feel free to [check out my experience](/my-experience), find out [how I work](/how-I-work) and [get in contact with me](/get-in-contact).
+      Feel free to [check out my experience](/my-experience), find out [how I work](/how-i-work) and [get in contact with me](/get-in-contact).
 
       References and testimonials are available on request. I am also fully DBS-cleared.
 

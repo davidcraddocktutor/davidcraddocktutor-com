@@ -15,6 +15,6 @@ I will reply to all emails as soon as I can.
 
 ## Find out More:
 * [https://davidcraddocktutor.com/my-experience/](https://davidcraddocktutor.com/my-experience) - Find out about my experience
-* [https://davidcraddocktutor.com/how-I-work/](https://davidcraddocktutor.com/how-I-work) - Find out about how I work
+* [https://davidcraddocktutor.com/how-i-work/](https://davidcraddocktutor.com/how-i-work) - Find out about how I work
 
 
