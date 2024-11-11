@@ -2,7 +2,7 @@
 date: "2024-11-11T00:34:52+00:00"
 guid: https://davidcraddock.net/get-in-contact
 title: Get In Contact
-url: /get-in-contact/
+url: /get-in-contact
 
 ---
 
