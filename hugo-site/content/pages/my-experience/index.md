@@ -60,9 +60,8 @@ Privately funded/employer funded courses:
 
 ## My CV
 
-* HTML: [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
-* PDF: [https://wordswords.github.io/dpc-resume/CV.pdf](https://wordswords.github.io/dpc-resume/CV.pdf)
-* Markdown: [https://wordswords.github.io/dpc-resume/CV.md](https://wordswords.github.io/dpc-resume/CV.md)
+* HTML: - [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
+* Downloadable PDF: - [https://wordswords.github.io/dpc-resume/CV.pdf](https://wordswords.github.io/dpc-resume/CV.pdf)
 
 ## My GitHub
 
