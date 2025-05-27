@@ -58,9 +58,11 @@ Privately funded/employer funded courses:
 * Spring Systems Design in UML (Bradford Uni Masters-level course module)
 * Web Engineering (Bradford Uni Masters-level course module)
 
-## My CV in PDF and HTML Format
+## My CV
 
-* [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
+* HTML: [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
+* PDF: [https://wordswords.github.io/dpc-resume/CV.pdf](https://wordswords.github.io/dpc-resume/CV.pdf)
+* Markdown: [https://wordswords.github.io/dpc-resume/CV.md](https://wordswords.github.io/dpc-resume/CV.md)
 
 ## My GitHub
 
