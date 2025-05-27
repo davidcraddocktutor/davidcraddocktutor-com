@@ -58,6 +58,14 @@ Privately funded/employer funded courses:
 * Spring Systems Design in UML (Bradford Uni Masters-level course module)
 * Web Engineering (Bradford Uni Masters-level course module)
 
+## My CV in PDF and HTML Format
+
+* [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
+
+## My GitHub
+
+* [https://github.com/wordswords](https://github.com/wordswords)
+
 ## Find out More:
 * [https://davidcraddocktutor.com/how-i-work/](https://davidcraddocktutor.com/how-i-work) - Find out How I Work
 * [https://davidcraddocktutor.com/get-in-contact/](https://davidcraddocktutor.com/get-in-contact) - Get In Contact
