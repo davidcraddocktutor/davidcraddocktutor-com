@@ -20,6 +20,6 @@ I am open and honest about how I work, so that there is no confusion and everyth
 * Whoever I'm working with will be required to sign a contract after the initial call, which just covers what I've already stated here.
 
 ## Find out More:
-* [https://davidcraddocktutor.com/my-experience/](https://davidcraddocktutor.com/my-experience) - Find out about my experience
-* [https://davidcraddocktutor.com/get-in-contact/](https://davidcraddocktutor.com/get-in-contact) - Get In Contact
+* [/my-experience/](/my-experience) - Find out about my experience
+* [/get-in-contact/](/get-in-contact) - Get In Contact
 

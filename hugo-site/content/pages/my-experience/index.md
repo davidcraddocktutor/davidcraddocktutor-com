@@ -68,5 +68,5 @@ Privately funded/employer funded courses:
 * [https://github.com/wordswords](https://github.com/wordswords)
 
 ## Find out More:
-* [https://davidcraddocktutor.com/how-i-work/](https://davidcraddocktutor.com/how-i-work) - Find out How I Work
-* [https://davidcraddocktutor.com/get-in-contact/](https://davidcraddocktutor.com/get-in-contact) - Get In Contact
+* [/how-i-work/](/how-i-work) - Find out How I Work
+* [/get-in-contact/](/get-in-contact) - Get In Contact
